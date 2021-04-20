@@ -1,2 +1,1 @@
-# Autodesk-Inventor
-Autodesk &reg; Inventor VBA &amp; iLogic snip'n'snap
+# Autodesk &reg; Inventor VBA &amp; iLogic snip'n'snap
