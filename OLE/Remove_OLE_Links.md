@@ -1,3 +1,4 @@
+```vha
 Public Sub DeleteOLEReference()
     Dim oDoc As Document
     Set oDoc = ThisApplication.ActiveDocument
@@ -23,5 +24,5 @@ Public Sub DeleteOLEReference()
         End If
     Next
 End Sub
-
-'https://knowledge.autodesk.com/support/inventor/troubleshooting/caas/sfdcarticles/sfdcarticles/Inventor-have-OLE-file-can-not-be-deleted.html
+```
+https://knowledge.autodesk.com/support/inventor/troubleshooting/caas/sfdcarticles/sfdcarticles/Inventor-have-OLE-file-can-not-be-deleted.html
