@@ -1,4 +1,5 @@
 # Copy all assembly user parameters to contained Parts
+https://forums.autodesk.com/t5/inventor-customization/ilogic-push-all-assembly-user-parameters-to-parts/td-p/7961847
 
 ```vba
 Public Sub Main()
