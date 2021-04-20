@@ -1,5 +1,5 @@
-# Remove OLE links
-
+# Remove All OLE Links
+https://knowledge.autodesk.com/support/inventor/troubleshooting/caas/sfdcarticles/sfdcarticles/Inventor-have-OLE-file-can-not-be-deleted.html
 ```vba
 Public Sub DeleteOLEReference()
     Dim oDoc As Document
@@ -27,4 +27,7 @@ Public Sub DeleteOLEReference()
     Next
 End Sub
 ```
-https://knowledge.autodesk.com/support/inventor/troubleshooting/caas/sfdcarticles/sfdcarticles/Inventor-have-OLE-file-can-not-be-deleted.html
+
+#
+```vba
+```
