@@ -1,6 +1,6 @@
 # Remove OLE links
 
-```vha
+```vba
 Public Sub DeleteOLEReference()
     Dim oDoc As Document
     Set oDoc = ThisApplication.ActiveDocument
