@@ -5,6 +5,7 @@
 ''Copyright by Inventor Wizard (http://www.inventorwizard.be)
 ''Use this macro at your own risk.
 ''You may only copy/modify this or part of the code if you leave this header!
+```vba
 
 Public Sub Make_Component_Pattern_Independent()
 
